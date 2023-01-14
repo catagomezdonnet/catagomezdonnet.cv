@@ -1,0 +1,47 @@
+p{
+    color:blue
+}
+
+section{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+
+}
+
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: chocolate;
+    border: 1px solid coral;
+    /** PARA APLICAR TODOS LOS PADING IGUALES:
+    padding: 5px;
+    PARA APLICAR TODOS DISTINTOS:
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 15px;
+    Y ABREVIACION DE TODOS:
+    */
+    padding: 15px 5px 30px 15px;
+   /** PARA APLICAR TODOS LOS MARGENES IGUALES
+    margin: 15px;
+    */
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 60px;
+    font-weight: bold;
+
+}
+
+#id_uno{
+    color:brown;
+    font-size: 20px;
+    border: 20px solid coral;
+
+}
+
+.claseuno{
+    color: rebeccapurple;
+}
